@@ -1,20 +1,21 @@
-# Deep Learning Projects – Keras, TensorFlow & PyTorch
+# Deep Learning Projects – TensorFlow, Keras & PyTorch
+## Welcome to my Deep Learning repository.
 
-Welcome to my Deep Learning repository!
+This repository gathers a series of applied deep learning projects using TensorFlow, Keras, and PyTorch. Each project is organized in a clean and reproducible format to explore key machine learning concepts through concrete examples.
 
-This space contains a collection of practical and educational projects built with **Keras**, **TensorFlow**, and **PyTorch** — three of the most widely used frameworks in the world of machine learning.
+Contents
+The projects cover a wide range of topics, including:
 
-## What You’ll Find Here
-Each project is implemented in a clean and well-documented Jupyter notebook, focusing on the following themes:
+* Image and Tabular Classification: CNNs and fully connected networks on real-world datasets.
 
-* Classification – Image and numerical data
+* Regression Models: Predictive tasks using both standard and custom metrics.
 
-* Regression – Simple examples with custom metrics
+* Custom Loss Functions & Metrics: Implementation of tailored objectives adapted to specific tasks.
 
-* Custom Loss Functions – Tailored objectives for specific tasks
+* Training Techniques: Integration of callbacks such as EarlyStopping, ModelCheckpoint, and Learning Rate Scheduling.
 
-* Callbacks – Early stopping, model checkpoints, learning rate schedulers
+* Comparative Experiments: Exploration of model architectures, optimization algorithms, dropout, batch normalization, and regularization.
 
-* Experiments – Comparing optimizers, architectures, and techniques
+* Model Evaluation: Use of metrics such as accuracy, precision, recall, F1-score, ROC AUC, and visualizations for better interpretability.
 
-* Evaluation – Use of metrics like accuracy, precision, recall, F1-score, and AUC
+* Neural Network Visualizations: Display and interpretation of learned weights for deeper insight into model behavior.
