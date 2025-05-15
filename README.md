@@ -23,4 +23,4 @@ The projects cover a wide range of topics, including:
 
 * **Neural Network Visualizations:** Display and interpretation of learned weights for deeper insight into model behavior.
 
-* ![Weights](Images/weights.png)
+![Weights](Images/weights.png)
