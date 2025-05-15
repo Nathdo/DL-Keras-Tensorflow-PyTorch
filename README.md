@@ -1,10 +1,11 @@
 # Deep Learning Projects – TensorFlow, Keras & PyTorch
 ## Welcome to my Deep Learning repository.
 
-This repository gathers a series of applied deep learning projects using TensorFlow, Keras, and PyTorch. Each project is organized in a clean and reproducible format to explore key machine learning concepts through concrete examples.
-
 ![Filters](Images/filters.png)
 
+This repository gathers a series of applied deep learning projects using TensorFlow, Keras, and PyTorch. Each project is organized in a clean and reproducible format to explore key machine learning concepts through concrete examples.
+
+![Weights](Images/weights.png)
 
 Contents
 The projects cover a wide range of topics, including:
@@ -23,4 +24,4 @@ The projects cover a wide range of topics, including:
 
 * **Neural Network Visualizations:** Display and interpretation of learned weights for deeper insight into model behavior.
 
-![Weights](Images/weights.png)
+![Weights](Images/layers.png)
